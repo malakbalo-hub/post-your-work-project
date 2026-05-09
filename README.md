@@ -9,6 +9,12 @@ This project analyzes bikeshare data from three US cities: **Chicago**, **New Yo
 2. **Install pandas**: `pip install pandas`
 3. **Run** the script: `python bikeshare_starter.py`
 
+### Interactive Prompts
+The program will ask you to:
+- **Choose a city** (Chicago, New York City, or Washington)
+- **Choose a filter** (month, day, both, or none)
+- **View raw data** (5 rows at a time)
+
 ## Date created
 
 Include the date you created this project and README file.
