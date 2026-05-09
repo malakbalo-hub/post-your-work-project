@@ -1,6 +1,6 @@
-# Project Title
+# Explore US Bikeshare Data
 
-Describe what your project is about and what it does
+This project analyzes bikeshare data from three US cities: **Chicago**, **New York City**, and **Washington**. The program provides an interactive terminal experience to explore bike rental patterns, popular stations, trip durations, and user demographics.
 
 ## Information about how to use your project
 
