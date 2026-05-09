@@ -2,6 +2,8 @@
 
 This project analyzes bikeshare data from three US cities: **Chicago**, **New York City**, and **Washington**. The program provides an interactive terminal experience to explore bike rental patterns, popular stations, trip durations, and user demographics.
 
+_Note: Washington, D.C. does not include gender or birth year data._
+
 ## How to Use This Project
 
 ### Setup Instructions
