@@ -2,14 +2,12 @@
 
 This project analyzes bikeshare data from three US cities: **Chicago**, **New York City**, and **Washington**. The program provides an interactive terminal experience to explore bike rental patterns, popular stations, trip durations, and user demographics.
 
-## Information about how to use your project
+## How to Use This Project
 
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+### Setup Instructions
+1. **Clone** this repository
+2. **Install pandas**: `pip install pandas`
+3. **Run** the script: `python bikeshare_starter.py`
 
 ## Date created
 
