@@ -15,6 +15,6 @@ The program will ask you to:
 - **Choose a filter** (month, day, both, or none)
 - **View raw data** (5 rows at a time)
 
-## Date
+## Date 
 
-This project and README file were created on 9th May, 2026
+_May, 2026_
